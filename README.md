@@ -10,15 +10,9 @@ This plugin connects your AI assistant to Linear.
 
 1. Open Cursor settings
 2. Navigate to **Plugins**
-3. Click **Install from Marketplace**
+3. Click **Browse Marketplace**
 4. Search for "Linear"
 5. Click **Install**
-
-Alternatively, to install from source:
-1. Clone or download this plugin
-2. In Cursor settings, go to **Plugins**
-3. Click **Load from Directory**
-4. Select the plugin directory
 
 ## Support
 
