@@ -1,13 +1,19 @@
 {
   "name": "linear",
   "version": "1.0.0",
-  "description": "Cursor Plugin for Linear - enables AI assistants to manage issues, projects, documents, and more across your Linear workspace",
+  "description": "USER LEVEL: You create, triage, and update issues without leaving the editor—context stays where you’re coding. PROJECT LEVEL: Issue state, project plans, and cycle progress stay accurate because updates happen as part of the development flow, not after. Linear without tab overload—create and triage issues, plan projects and cycles, and work with docs and comments through tools built for assistants. BEST SUITED FOR: • Teams using Linear for issue tracking and sprint planning • Projects where issue hygiene matters for velocity metrics • Developers who want issues and code changes in the same context",
   "author": {
     "name": "Linear",
     "email": "support@linear.app",
     "url": "https://linear.app"
   },
-  "keywords": ["linear", "mcp", "issues", "project-management", "productivity"],
+  "keywords": [
+    "linear",
+    "mcp",
+    "issues",
+    "project-management",
+    "productivity"
+  ],
   "logo": "logo.svg",
   "primaryColor": "#5E6AD2"
 }
