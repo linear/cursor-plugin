@@ -1,12 +1,14 @@
-# Linear Cursor Plugin
+# Linear Agent Plugin
 
 The product development system for teams and agents. Manage issues, projects, documents, and everything else across your Linear workspace.
 
 ## Overview
 
-This plugin connects your AI assistant to Linear.
+This plugin connects compatible AI assistants to Linear through its MCP server.
 
 ## Installation
+
+### Cursor
 
 1. Open **Customize** in Cursor's sidebar.
 2. Find **Linear** in the marketplace.

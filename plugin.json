@@ -1,4 +1,5 @@
 {
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "linear",
   "version": "1.0.0",
   "description": "The product development system for teams and agents. Manage issues, projects, documents, and everything else across your Linear workspace.",
@@ -9,12 +10,5 @@
   },
   "homepage": "https://linear.app",
   "repository": "https://github.com/linear/cursor-plugin",
-  "keywords": ["linear", "mcp", "issues", "project-management", "productivity"],
-  "logo": "logo.svg",
-  "primaryColor": "#222326",
-  "mcpServers": {
-    "linear": {
-      "url": "https://mcp.linear.app/mcp"
-    }
-  }
+  "keywords": ["linear", "mcp", "issues", "project-management", "productivity"]
 }
