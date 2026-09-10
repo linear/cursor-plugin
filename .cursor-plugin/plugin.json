@@ -1,13 +1,15 @@
 {
   "name": "linear",
   "version": "1.0.0",
-  "description": "Cursor Plugin for Linear - enables AI assistants to manage issues, projects, documents, and more across your Linear workspace",
+  "description": "The product development system for teams and agents. Manage issues, projects, documents, and everything else across your Linear workspace.",
   "author": {
     "name": "Linear",
     "email": "support@linear.app",
     "url": "https://linear.app"
   },
+  "homepage": "https://linear.app",
+  "repository": "https://github.com/linear/cursor-plugin",
   "keywords": ["linear", "mcp", "issues", "project-management", "productivity"],
   "logo": "logo.svg",
-  "primaryColor": "#5E6AD2"
+  "primaryColor": "#222326"
 }

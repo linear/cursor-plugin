@@ -1,6 +1,6 @@
 # Linear Cursor Plugin
 
-A [Cursor](https://cursor.com) plugin that provides access to Linear workspaces, enabling AI assistants to manage issues, projects, documents, and more.
+The product development system for teams and agents. Manage issues, projects, documents, and everything else across your Linear workspace.
 
 ## Overview
 
@@ -8,11 +8,12 @@ This plugin connects your AI assistant to Linear.
 
 ## Installation
 
-1. Open Cursor settings
-2. Navigate to **Plugins**
-3. Click **Browse Marketplace**
-4. Search for "Linear"
-5. Click **Install**
+1. Open **Customize** in Cursor's sidebar.
+2. Find **Linear** in the marketplace.
+3. Select **Install** and choose project or user scope.
+4. Connect Linear and complete the OAuth sign-in.
+
+Once connected, ask Cursor to work with Linear, for example: "Find my open Linear issues."
 
 ## Support
 

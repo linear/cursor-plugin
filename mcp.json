@@ -1,6 +1,7 @@
 {
-  "linear": {
-    "url": "https://mcp.linear.app/mcp",
-    "transport": "http"
+  "mcpServers": {
+    "linear": {
+      "url": "https://mcp.linear.app/mcp"
+    }
   }
 }
