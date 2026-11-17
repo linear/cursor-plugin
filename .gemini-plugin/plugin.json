@@ -1,0 +1,17 @@
+{
+  "name": "linear",
+  "displayName": "Linear",
+  "version": "1.1.0",
+  "description": "Find, create, and update Linear issues, plan projects and milestones, post status updates, and read or write Linear documents.",
+  "author": {
+    "name": "Linear",
+    "email": "support@linear.app",
+    "url": "https://linear.app"
+  },
+  "repository": "https://github.com/linear/cursor-plugin",
+  "homepage": "https://linear.app/docs/mcp",
+  "license": "MIT",
+  "keywords": ["linear", "issues", "project-management", "roadmap", "productivity"],
+  "skills": ["./skills/linear-workspace/SKILL.md"],
+  "mcpServers": "./.mcp.json"
+}
